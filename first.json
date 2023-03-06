@@ -1,0 +1,18 @@
+{
+  "name": "CryptoNerdPS #001",
+  "symbol": "CNPS",
+  "description": "First CryptoNerdPS NFT",
+  "image": "https://cdn.discordapp.com/attachments/1042429105704013887/1079068501022609438/ZaidBSousa_wallpaper_render_8K_f5ea5049-0fcb-413f-a44c-375fc4ac6706.png",
+  "animation_url": "",
+  "external_url": "https://zaidbsousa.github.io/CryptoNerdPS/",
+  "attributes": [
+    {
+      "trait_type": "Num",
+      "value": "First"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Very Rare"
+    }
+  ]
+}
